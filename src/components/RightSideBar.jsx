@@ -44,9 +44,15 @@ function RightSideBar() {
 
         {
             title: 'React js',
-            period: '06.2020',
+            period: '01.2020',
             details: "I have taken Online Courses in React js"
         },
+
+        {
+          title: 'React Native',
+          period: '01.2021',
+          details: "I have taken Online Courses in React js"
+      },
 
         {
             title: 'Javascript',
@@ -104,13 +110,13 @@ function RightSideBar() {
 
     {
       title: "React js developer Freelancer",
-      period: "1.2020 - present",
+      period: "6.2020 - present",
       details:
         "As a React js developer I have been making website and connect them to my backend APIs that I made with Django , like Blogs , markets, etc",
     },
     {
       title: "React Native developer Freelancer",
-      period: "1.2021 - present",
+      period: "6.2021 - present",
       details:
         "As a React Native developer , I have been making apps for customers, like markets, Blogs, IOTs apps for controlling electrical machines, etc",
     },
