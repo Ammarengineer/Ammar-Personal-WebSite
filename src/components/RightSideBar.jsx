@@ -44,27 +44,33 @@ function RightSideBar() {
 
         {
             title: 'React js',
-            period: '06.2022',
+            period: '06.2020',
             details: "I have taken Online Courses in React js"
         },
 
         {
             title: 'Javascript',
-            period: ' 01.2020',
+            period: ' 01.2019',
             details: "I have taken Online Courses in Javascript"
         },
 
         {
             title: 'HTML',
-            period: '01.2020',
+            period: '01.2019',
             details: "I have taken Online Courses in HTML"
         },
 
         {
             title: 'CSS',
-            period: '01.2020',
+            period: '01.2019',
             details: "I have taken Online Courses in CSS"
         },
+
+        {
+          title: 'flutter',
+          period: '01.2020',
+          details: "I have taken Online Courses in CSS"
+      },
 
         {
             title: 'Adobe PhotoShop',
@@ -85,7 +91,7 @@ function RightSideBar() {
   const workExperiences = [
     {
       title: "Django Developer Freelancer",
-      period: "01.2018 - present",
+      period: "01.2019 - present",
       details:
         "As Python and Django developer I have been making making servers , Restful APIs for the apps I make with React Native , Flutter or React js",
     },
@@ -98,7 +104,7 @@ function RightSideBar() {
 
     {
       title: "React js developer Freelancer",
-      period: "1.2021 - present",
+      period: "1.2020 - present",
       details:
         "As a React js developer I have been making website and connect them to my backend APIs that I made with Django , like Blogs , markets, etc",
     },
@@ -110,7 +116,7 @@ function RightSideBar() {
     },
     {
       title: "Flutter developer Freelancer",
-      period: "7.2020 - present",
+      period: "7.2021 - present",
       details:
         "As a Flutter developer , I have been making apps for customers, like markets, Blogs, IOTs apps for controlling electrical machines, etc",
     },
@@ -136,19 +142,21 @@ function RightSideBar() {
 
     {
       title: "SolidWorks Freelancer",
-      period: "04.2022 - 06.2023",
+      period: "04.2018 - 06.2023",
       details:
         "I have been designing mechanical machines like production lines,ventilation machine for medical use,3D printers, CNC, and controller them with React js website , React Native app or Flutter app that are connected to my backend that is written with Django",
     },
   ];
 
   return (
-    <Col xs={6} sm={7} md={6} lg={6} className="ms-3 me-1 p-1">
+    <Col xs={10}  md={10} xl lg={10} >
       
-      <Row className="mb-5">
+      <Row >
       
 
-        <Card style={{ width: "700px" }} className="p-0 shadow p-0 m-0 bg-body rounded">
+        <Card  
+        // style={{ width: "380px" }}
+        className=" shadow p-0 m-0 bg-body rounded">
           <Card.Body>
             <Card.Title>
               {" "}
@@ -181,10 +189,12 @@ function RightSideBar() {
       </Row>
      
 
-      <Row className="mb-3">
+      <Row >
      
       
-        <Card style={{ width: "600px" }} className="p-1 shadow p-3 mb-5 bg-body rounded">
+        <Card 
+        // style={{ width: "500px" }} 
+        className="p-0 shadow p-0 mb-0 bg-body rounded">
           <Card.Body>
             <Card.Title>
               {" "}

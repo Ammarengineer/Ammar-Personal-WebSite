@@ -12,9 +12,9 @@ import RightSideBar from "../components/RightSideBar";
 
 function Home() {
   return (
-    <div data-bs-theme="light" >
-      <Container fluid>
-        <Row>
+    <div data-bs-theme="light"  >
+      <Container >
+        <Row className="p-0 m-0">
             <LiftSideBar/>
           
 
