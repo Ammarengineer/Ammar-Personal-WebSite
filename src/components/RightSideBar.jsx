@@ -75,7 +75,7 @@ function RightSideBar() {
         {
           title: 'flutter',
           period: '01.2020',
-          details: "I have taken Online Courses in CSS"
+          details: "I have taken Online Courses in Flutter"
       },
 
         {
@@ -90,7 +90,7 @@ function RightSideBar() {
         },
         {
             title: 'OBS',
-            period: '108.2020',
+            period: '01.2020',
             details: "I have taken Online Courses in OBS"
         },
     ]
