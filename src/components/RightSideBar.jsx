@@ -44,33 +44,39 @@ function RightSideBar() {
 
         {
             title: 'React js',
-            period: '01.2020',
+            period: '01.2018',
             details: "I have taken Online Courses in React js"
         },
 
         {
           title: 'React Native',
-          period: '01.2021',
+          period: '01.2019',
           details: "I have taken Online Courses in React js"
       },
 
         {
             title: 'Javascript',
-            period: ' 01.2019',
+            period: ' 01.2017',
             details: "I have taken Online Courses in Javascript"
         },
 
         {
             title: 'HTML',
-            period: '01.2019',
+            period: '01.2017',
             details: "I have taken Online Courses in HTML"
         },
 
         {
             title: 'CSS',
-            period: '01.2019',
+            period: '01.2017',
             details: "I have taken Online Courses in CSS"
         },
+
+        {
+          title: 'Bootstrap 5',
+          period: '1.2019',
+          details: "I have taken Online Courses in CSS"
+      },
 
         {
           title: 'flutter',
@@ -110,13 +116,13 @@ function RightSideBar() {
 
     {
       title: "React js developer Freelancer",
-      period: "6.2020 - present",
+      period: "6.2018 - present",
       details:
         "As a React js developer I have been making website and connect them to my backend APIs that I made with Django , like Blogs , markets, etc",
     },
     {
       title: "React Native developer Freelancer",
-      period: "6.2021 - present",
+      period: "6.2020 - present",
       details:
         "As a React Native developer , I have been making apps for customers, like markets, Blogs, IOTs apps for controlling electrical machines, etc",
     },
